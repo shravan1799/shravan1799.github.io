@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ead914c3f3193d3f4cd266362985a58",
+    "revision": "3d9f448d047c968ac539a7287eb311a5",
     "url": "/index.html"
   },
   {
-    "revision": "dba796591993209f6bd0",
+    "revision": "8c73e4f98e8358a00222",
     "url": "/static/css/main.9451f135.chunk.css"
   },
   {
-    "revision": "5da4bf48fd2d6ba09c83",
-    "url": "/static/js/2.1849fe53.chunk.js"
+    "revision": "98745fa162ac5199a67d",
+    "url": "/static/js/2.201cbcfd.chunk.js"
   },
   {
-    "revision": "dba796591993209f6bd0",
-    "url": "/static/js/main.e3d83c5c.chunk.js"
+    "revision": "8c73e4f98e8358a00222",
+    "url": "/static/js/main.22b87735.chunk.js"
   },
   {
     "revision": "92f029da76dcbcf1ac23",
@@ -218,6 +218,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fa5424232370e3d049c9555d9c440a4",
     "url": "/static/media/talksCardBackAlt.3fa54242.svg"
+  },
+  {
+    "revision": "64980eb198fbd2e814d41d4a12fa48d2",
+    "url": "/static/media/udemy.64980eb1.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
