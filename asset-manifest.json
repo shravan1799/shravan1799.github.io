@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b6667a8.chunk.css",
-    "main.js": "/static/js/main.bfe50c3f.chunk.js",
-    "main.js.map": "/static/js/main.bfe50c3f.chunk.js.map",
+    "main.css": "/static/css/main.b80a3788.chunk.css",
+    "main.js": "/static/js/main.fce2fda2.chunk.js",
+    "main.js.map": "/static/js/main.fce2fda2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d47d2cfc.js",
     "runtime-main.js.map": "/static/js/runtime-main.d47d2cfc.js.map",
-    "static/js/2.73b38fcb.chunk.js": "/static/js/2.73b38fcb.chunk.js",
-    "static/js/2.73b38fcb.chunk.js.map": "/static/js/2.73b38fcb.chunk.js.map",
+    "static/js/2.b119131a.chunk.js": "/static/js/2.b119131a.chunk.js",
+    "static/js/2.b119131a.chunk.js.map": "/static/js/2.b119131a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.db0fcca09693ac63022652094f18a7e3.js": "/precache-manifest.db0fcca09693ac63022652094f18a7e3.js",
+    "precache-manifest.b4998aa155ba0a52a5cd6de5f3374fd9.js": "/precache-manifest.b4998aa155ba0a52a5cd6de5f3374fd9.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3b6667a8.chunk.css.map": "/static/css/main.3b6667a8.chunk.css.map",
+    "static/css/main.b80a3788.chunk.css.map": "/static/css/main.b80a3788.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
@@ -29,6 +29,7 @@
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
+    "static/media/game.svg": "/static/media/game.cff49a6b.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
@@ -48,8 +49,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d47d2cfc.js",
-    "static/js/2.73b38fcb.chunk.js",
-    "static/css/main.3b6667a8.chunk.css",
-    "static/js/main.bfe50c3f.chunk.js"
+    "static/js/2.b119131a.chunk.js",
+    "static/css/main.b80a3788.chunk.css",
+    "static/js/main.fce2fda2.chunk.js"
   ]
 }
